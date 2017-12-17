@@ -16,7 +16,7 @@ To students: Do not wait until the last minute to do these modules because you w
 * In class:
     * Introduction to the project, Image Worksheet and Module Guide
 * Homework: due Meeting 2
-    * Module 1: Preparations
+    * [Module 1: Preparations](
 
 ### Meeting 2
 * In class (visit with Archives & Special Collections):
