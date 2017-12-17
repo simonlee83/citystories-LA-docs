@@ -15,9 +15,7 @@ permalink: /docs/mod6/
 * In your GitHub `lyricalmap` repository [githubusername / lyricalmap], navigate to the `articles` directory.
 * In this directory you will find some .xml files named `f16_01.xml`, `f16_02.xml`, etc. These files serve as the templates for your articles. Click on the one that corresponds to your quarter and group number (f16 is the Fall 2016 quarter, 01 is group 1).
 * We'll look at this in more detail shortly, but you might notice that the major sections of this .xml file correspond to the published article stub we just looked at. Let's make our first edits in this file.
-* In the top right corner of the file, look for the pencil icon. Click this to edit the file.
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
-
+* In the top right corner of the file, look for the pencil icon. Click this to edit the file. ![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
 * While we're in edit mode, let's give the article a proper title. Look at the file around line 9. See where is says [Article title] in between the `<title>` tags? Let's replace this text _and the brackets_ with the title of your article. You can always change this later if you decide, so don't worry if it's not perfect.
 
 {% gist id="https://gist.github.com/kirschbombe/b32bae349d186cfdd7e7" %}{% endgist %}
