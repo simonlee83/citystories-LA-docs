@@ -1,5 +1,5 @@
 ---
-title: "Module 3: Prep you images"
+title: "Module 3: Prep your images"
 permalink: /docs/mod3/
 ---
 
