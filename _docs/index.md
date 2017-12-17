@@ -4,47 +4,58 @@ permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
 
-## Getting started
+This book contains the assignment modules for the "Los Angeles: The City and the Library" course project.
 
-[GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
-Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `docs` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
-The good thing about coupling your documentation with the source repo is, whenever you merge features with regarding content to master branch, it will also be published in the webpage instantly.
+## Module Guide and Sample Syllabus
 
-1. Just download the source from [github.com/aksakalli/jekyll-doc-theme](https://github.com/aksakalli/jekyll-doc-theme/master) into your repo under `docs` folder.
-2. Edit site settings in  `_config.yml` file according to your project.
-3. Replace `favicon.ico` and `img/logonav.png` with your own logo.
+Here you will find a sample syllabus with a module timeline. The modules contain step-by-step instructions and are presented in the recommended order.
 
-## Writing content
+To students: Do not wait until the last minute to do these modules because you will likely experience technical and editorial issues and will need time to edit, troubleshoot, and/or receive help. Check in with instructors frequently for feedback and messages!
 
-### Docs
+### Meeting 1
+* In class:
+    * Introduction to the project, Image Worksheet and Module Guide
+* Homework: due Meeting 2
+    * Module 1: Preparations
 
-Docs are [collections](https://jekyllrb.com/docs/collections/) of pages stored under `_docs` folder. To create a new page:
+### Meeting 2
+* In class (visit with Archives & Special Collections):
+    * Module 2: Images
+* Homework: due Meeting 3
+    * Make sure you've completed and submitted Module 2
+    * Module 3: Prep your images
 
-**1.** Create a new Markdown as `_docs/my-page.md` and write [front matter](https://jekyllrb.com/docs/frontmatter/) & content such as:
+### Meeting 3
+* In class: --
+* Homework: due Meeting 4
+    * Module 4: Prepare for Lab session 1
 
-```
----
-title: My Page
-permalink: /docs/my-page/
----
+### Meeting 4
+* In class (Lab session 1):
+    * Module 5: Setting up your GitHub repository
+    * Module 6: Preparing your article stub
+    * Module 7: Begin filling in your article stub
+    * Module 8: Submit your work with a "Pull Request"
+* Homework: due Meeting 5:
+    * Module 10: Complete the teiHeader, bibliography, and image sections
+    * Module 11: The Map Marker Worksheet
 
-Hello World!
-```
-
-**2.** Add the pagename to `_data/docs.yml` file in order to list in docs navigation panel:
-
-```
-- title: My Group Title
-  docs:
-  - my-page
-```
-
-### Blog posts
-
-Add a new Markdown file such as `2017-05-09-my-post.md` and write the content similar to other post examples.
-
-### Pages
-
-The home page is located under `index.html` file. You can change the content or design completely different welcome page for your taste. (You can use [bootstrap componenets](http://getbootstrap.com/components/))
-
-In order to add a new page, create a new html or markdown file under root directory and link it in `_includes/topnav.html`.
+### Meeting 5
+In class (Lab session 2):
+Module 12: Adding your Map Marker
+Module 9: Adding images
+Homework:
+Finish adding your map marker and images
+### Meeting 6
+In class:
+Final text drafts due
+Homework:
+Module 13: Adding the article body text
+Module 14: Reviewing your live site
+Do not wait until the last minute. You will likely experience issues (both technical and editorial) and will need time to edit, troubleshoot, and/or receive help.
+Check in with instructors frequently for feedback and messages!
+### Meeting 7
+Completed article and pull requests due. *Please submit earlier in case you need to edit or fix any errors!
+### Meeting 8
+In class (Presentations):
+Group presentations and reveal of your final project!
