@@ -17,9 +17,7 @@ permalink: /docs/mod6/
 * In the top right corner of the file, look for the pencil icon. Click this to edit the file. ![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
 * While we're in edit mode, let's give the article a proper title. ..... See where is says [Article title] next to the `title:` field in our file's frontmatter? Let's replace this text _and the brackets_ with the title of your article. You can always change this later if you decide, so don't worry if it's not perfect.
 
-{% gist id="https://gist.github.com/kirschbombe/b32bae349d186cfdd7e7" %}{% endgist %}
-
-{% gist id="https://gist.github.com/kirschbombe/78b0aa0e99f734f2de56" %}{% endgist %}
+{add example gists here}
 
 * Scroll down to bottom of the page, make sure "**Commit directly to the `gh-pages` branch**" option is selected, then click on the "**Commit changes**" button.
 
