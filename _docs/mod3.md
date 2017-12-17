@@ -1,5 +1,6 @@
 ---
-
+title: "Module 3: Prep you images"
+permalink: /docs/mod3/
 ---
 
 #### Select your images
