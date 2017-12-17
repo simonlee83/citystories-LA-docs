@@ -1,14 +1,14 @@
 # Site settings
-title: Jekyll Doc Theme
-email: your-email@domain.com
+title: Los Angeles: The City and the Library
+email: dchildress@library.ucla.edu
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+  Los Angeles: The City and the Library
+  assignment modules for the class.
 
-baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
-url: https://aksakalli.github.io/jekyll-doc-theme # the base hostname & protocol for your site
-git_address: https://github.com/aksakalli/jekyll-doc-theme
-git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
+baseurl: "/citystories-LA-docs" # the subpath of your site, e.g. /blog/
+url:  # the base hostname & protocol for your site
+git_address: https://github.com/citystoriesucla/citystories-LA-docs
+git_edit_address: https://github.com/citystoriesucla/citystories-LA-docs/blob/gh-pages
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
