@@ -8,9 +8,15 @@
   - mod5
   - mod6
   - mod7
+  - mod8
+  - mod9
+  - mod10
+  - mod11
+  - mod12
+  - mod13
 
-- title: Examples
+- title: Tips
   docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+  - formatting
+  - help
+  - cache
