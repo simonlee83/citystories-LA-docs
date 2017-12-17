@@ -1,5 +1,5 @@
 ---
-title: Module 2: The Image Worksheet
+title: "Module 2: The Image Worksheet"
 permalink: /docs/mod2/
 ---
 Any work not completed in class, must be completed and approved before the next class session.
