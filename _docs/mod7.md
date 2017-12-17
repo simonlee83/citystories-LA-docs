@@ -22,7 +22,7 @@ The first section is the front matter where we will put the metadata for our art
 * `date:` Enter the date in machine-readable format (YYYY-MM-DD), for example `date: 2018-02-27`
 * `categories:` List your category here, all lower-case, enclosed in quotes, inside square brackets, ex. `categories: ["politics and society"]`
 * `author:` List the names of the authors here, separated by commas. Enclose the whole thing in quotes: `author: "Dawn, Niqui, Andy"`
-* `lat:` and 'lng:` This is where we'll put our geo-coordinates. We'll get to those later.
+* `lat:` and `lng:` This is where we'll put our geo-coordinates. We'll get to those later.
 * `collectiontitle:` Put the name of the collection that your object(s) are from here. Use the format recommended by the Curator. Enlcose the whole statement in quotes.
 * `quarter:` List the current academic quarter here. Example: `quarter: Winter 2018`
 * `desc:` This is for a short description of the place. It will display on the map popup. Limit this to **no more than 320 characters**.
@@ -33,7 +33,7 @@ _Now, let's save our changes and check out the live page again to see the info w
 
 ##### Bibliography
 * Next, we'll add the citation(s) for the archival objects we will be writing about. You should already have this information in your Image Worksheet from your archives and special collections visit.
-* Using MLA format, add your first citation as a numbered item (1.) just under the `{.bibliography}` tag (no extra lines!).
+* Using MLA format, add your first citation as a numbered item (1.) just under the `{:.bibliography}` tag (no extra lines!).
 
 {need new gist}
 
