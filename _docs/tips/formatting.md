@@ -14,7 +14,7 @@ In this project, you might italicize for two reasons: titles and foreign words. 
 To make text bold, enclose the text in double asterisks on either side. Example: `**this is bold**` will render as **this is bold**.
 
 ##### Sub-headings
-You can also use header styles to give heading to sub-sections of your articles. For this project, we are using H4 for sub-headings. You can format and H4 using four hashtags: `#### Sub-heading 4`
+You can also use header styles to give heading to sub-sections of your articles. For this project, we are using H4 for sub-headings. You can format an H4 using four hashtags: `#### Sub-heading 4`
 
 ##### Hyperlinks
 
