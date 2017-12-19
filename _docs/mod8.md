@@ -1,5 +1,5 @@
 ---
-title: "Module 8: Submit your work with a Pull Request
+title: "Module 8: Submit your work with a Pull Request"
 permalink: /docs/mod8/
 ---
 
