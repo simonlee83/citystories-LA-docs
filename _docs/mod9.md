@@ -17,11 +17,22 @@ Now that your images are uploaded, let's return to your article Markdown file an
 
 _This is all the information you gathered earlier in the Image Worksheet._
 
-* A URL (`<graphic url="../images/academyawards.jpg"/>`)
-    * Since our images are in a sub-directory named `images`, we're going to use a _relative link_ to point to the image. The relative link to our images directory is `images/[imagefilename.jpg]`. So, if we have an image named `image1.jpg`, the relative link to the image will be `images/image1.jpg`.
-* Title and Attribution statement, `Title. Creator, date. Image courtesy of ...`
-    * In this section, add the creator and date, if known. This should be followed by a statement like "Image courtesy of UCLA Library Special Collections." If you visited a library unit other than the UCLA Library Special Collections (for example, the Chicano Studies Research Center), use their name in place of "UCLA Library Special Collections."
-* Alt-text for screen readers
-* `{:.image} tag - 
+A complete image will look like this in your Markdown file:
 
-Once you've completed these steps and have verified that your site loads with your new images, submit a new [Pull Request](https://kirschbombe.gitbooks.io/citystories-la/content/module08.html).
+<script src="https://gist.github.com/kirschbombe/824930bbe036dec9b40ff08943cb9500.js"></script>
+
+The first part contains the Alt-Text followed and the image path:
+* Alt-Text is surrounded by square brackets `[]`
+* The image path will be `images/[filename].jpg` - inserting the name of the image file in place of `[filename]`
+* Notice there is no space between the Alt-Text and the image path segments
+* On the next line, add the tag `{:.image}` - this is important! This makes the Lightbox feature work.
+
+The second part contains the title and attribution statemtment:
+* List the title first, followed by a period `.`
+* Follow this with the attribution statement.
+    * The attribution statement should contain the creator and date, if known, followed by a statement like "Image courtesy of UCLA Library Special Collections." If you visited a library unit other than the UCLA Library Special Collections (for example, the Chicano Studies Research Center), use their name in place of "UCLA Library Special Collections."
+* On the next line, ad the `{:.caption}` tag - this is import to format the caption properly!
+
+Repeat for each image.
+
+Once you've completed these steps and have verified that your site loads with your new images, submit a new Pull Request.
