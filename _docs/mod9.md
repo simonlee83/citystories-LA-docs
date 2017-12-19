@@ -6,12 +6,11 @@ permalink: /docs/mod9/
 #### Step 1: Upload your images
 * The project images are hosted in our GitHub repository in the `images` folder.
 * To upload your images there are two methods:
-* Navigate to the `images` folder, then drag and drop the images directly onto the page. If necessary, add additional images.
-* Once you've added all your images, scroll down to the bottom of the page, make sure "Commit directly to the `gh-pages` branch" is selected, then click on the green "Commit changes" button.
---Or--
-* From the `images` directory, you can select the "Upload Files" button, then continue as directed above.
-![](upload screenshot.png)
-* Navigate back to your `images` folder to verify that your new images are there and that you can view them.
+    * Navigate to the `images` folder, then drag and drop the images directly onto the page. If necessary, add additional images.
+    * Once you've added all your images, scroll down to the bottom of the page, make sure "Commit directly to the `gh-pages` branch" is selected, then click on the green "Commit changes" button.  <br />--Or--<br />
+    * From the `images` directory, you can select the "Upload Files" button, then continue as directed above.
+![](images/mod9.png)
+    * Navigate back to your `images` folder to verify that your new images are there and that you can view them.
 
 #### Step 2: Adding the images to your article
 Now that your images are uploaded, let's return to your article Markdown file and add the information about the images so they display.
