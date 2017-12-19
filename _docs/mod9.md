@@ -9,8 +9,8 @@ permalink: /docs/mod9/
     * Navigate to the `images` folder, then drag and drop the images directly onto the page. If necessary, add additional images.
     * Once you've added all your images, scroll down to the bottom of the page, make sure "Commit directly to the `gh-pages` branch" is selected, then click on the green "Commit changes" button.  <br />--Or--<br />
     * From the `images` directory, you can select the "Upload Files" button, then continue as directed above.
-![](../img/mod9.png)
-    * Navigate back to your `images` folder to verify that your new images are there and that you can view them.
+![](https://img.labnol.org/di/upload-files.png)
+* Navigate back to your `images` folder to verify that your new images are there and that you can view them.
 
 #### Step 2: Adding the images to your article
 Now that your images are uploaded, let's return to your article Markdown file and add the information about the images so they display.
