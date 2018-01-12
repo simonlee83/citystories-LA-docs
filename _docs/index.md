@@ -20,10 +20,10 @@ To students: Do not wait until the last minute to do these modules because you w
 
 #### Meeting 2
 * In class (visit with Archives & Special Collections):
-    * Module 2: Images
+    * [Module 2: Images](../mod2/)
 * Homework: due Meeting 3
     * Make sure you've completed and submitted Module 2
-    * Module 3: Prep your images
+    * [Module 3: Prep your images](../mod3/)
 
 #### Meeting 3
 * In class: --
