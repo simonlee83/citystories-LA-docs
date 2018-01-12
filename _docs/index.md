@@ -28,7 +28,7 @@ To students: Do not wait until the last minute to do these modules because you w
 #### Meeting 3
 * In class: --
 * Homework: due Meeting 4
-    * Module 4: Prepare for Lab session 1
+    * [Module 4: Prepare for Lab session 1](../mod4/)
 
 #### Meeting 4
 * In class (Lab session 1):
