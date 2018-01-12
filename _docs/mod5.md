@@ -15,7 +15,7 @@ Now it's time to make your own copy of the repo/site (or "fork" it) so you can a
 #### Visit your live page
 _We want to make sure everything is working correctly, so let's visit your live project page. To do this:_
 * Click on "Settings" in the right-hand column. (next to graphs)
-![](settings screenshot.png)
+![https://pages.github.com/images/repo-settings@2x.png](settings screenshot.png)
 * Scroll down to the box titled "GitHub Pages" and click on the link next to "Your site is published at".
 * It should look something like `http://[githubusername].github.io/lyricalmap`
 * You should see your version of _Los Angeles:The City and the Library_ project site. **If you see "Error 404 Site not found", don't panic!** Sometimes GitHub takes a while to build a new GitHub Pages site. We can check back later. If you have another issue, let us know!
