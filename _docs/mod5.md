@@ -10,7 +10,7 @@ Now it's time to make your own copy of the repo/site (or "fork" it) so you can a
 * See in the top right corner where is has the "Fork" button? Click on it. ![](https://www.linode.com/docs/assets/github-fork.png)
 * You'll see an animation letting you know that GitHub is copying the site over to your account.
 * Once that's done, you should see the `lyricalmap` repository, with all the folders and files, in your own GitHub account. Check the top of the page and make sure it has `[youraccountname] / lyricalmap`.
-* Do you see the `articles` folder from the "[Prepare for Lab session 1](../mod4/)" assignment?
+* Do you see the `_posts` folder from the "[Prepare for Lab session 1](../mod4/)" assignment?
 
 #### Visit your live page
 _We want to make sure everything is working correctly, so let's visit your live project page. To do this:_
