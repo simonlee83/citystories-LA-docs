@@ -4,7 +4,7 @@ permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
 
-This book contains the assignment modules for the "Los Angeles: The City and the Library" course project.
+This guide contaings the assignment modules for the "Los Angeles: The City and the Library" course project.
 
 ### Module Guide and Sample Syllabus
 
