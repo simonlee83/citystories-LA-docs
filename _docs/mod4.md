@@ -5,7 +5,7 @@ permalink: /docs/mod4/
 
 #### Explore the GitHub repository
 * [https://github.com/CityStoriesUCLA/lyricalmap]( https://github.com/CityStoriesUCLA/lyricalmap)
-* Find the `articles` directory (under the `code` tab). This is where you will put your Markdown (.md) file that contains your essay. Go ahead and click on the `lyricalmap.md` article. This is how our Markdown formatted documents will look, so pay attention to the different sections and how these are formatted - don't worry, we have a template for you! but we'll get to that later...
+* Find the `_posts` directory (under the `code` tab). This is where you will create your Markdown (.md) file that contains your essay. Go ahead and click on one of the Markdown files then click on the pencil icon in the located on the top right corner of the file. This is how our Markdown formatted documents will look, so pay attention to the different sections and how these are formatted - don't worry, we have a template for you! but we'll get to that later...
 
 #### Some things to think about before coming to class
 * Your group will need to decide on a **location** to which you will map your article. Begin to think about places in or around Los Angeles that are important or relevant to your archival object. You can only pick one location!
