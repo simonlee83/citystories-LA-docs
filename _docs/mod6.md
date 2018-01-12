@@ -13,7 +13,9 @@ permalink: /docs/mod6/
     * Next will be another underscore, followed by your group number, for example `_01` for group 1
     * Finally, add the Markdown file extension `.md` -- you'll end up with something like: `2018-02-12_w18_01.md`
 * Now that we've given our file a name, let's add some of the "Frontmatter", or the article's metadata. Copy and paste the following into the text area of your file:
+
 <script src="https://gist.github.com/kirschbombe/a806fe27ca6c9edb46c06c209b79d1f1.js"></script>
+
 * While we're here, let's give the article a proper title. See where is says "enter your title here" next to the `title:` field? Let's replace this text (but leave the quotes) with the title of your article. You can always change this later if you decide, so don't worry if it's not perfect.
 * Now that you've added your frontmatter and given your article a title, scroll down to bottom of the page, make sure "**Commit directly to the `gh-pages` branch**" option is selected, then click on the "**Commit changes**" button.
 
