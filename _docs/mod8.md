@@ -57,8 +57,6 @@ The second part contains the title and attribution statemtment:
 
 Repeat for each image.
 
-Once you've completed these steps and have verified that your site loads with your new images, submit a new Pull Request.
-
 ##### Bibliography
 * Next, we'll add the citation(s) for the archival objects we will be writing about. You should already have this information in your Image Worksheet from your archives and special collections visit.
 * Using MLA format, add your first citation as a numbered item (1.) just under the `{:.bibliography}` tag (no extra lines!).
