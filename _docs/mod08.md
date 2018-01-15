@@ -1,6 +1,6 @@
 ---
-title: "Module 7: Filling in the article data and content"
-permalink: /docs/mod7/
+title: "Module 8: Filling in the article data and content"
+permalink: /docs/mod8/
 ---
 
 #### Adding new content to your article
