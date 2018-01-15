@@ -5,14 +5,15 @@ permalink: /docs/mod7/
 
 The project images are stored and hosted in our GitHub repository in the `images` folder. There are two methods for uploading your images to the GitHub repository:
 
-1. Drag and drop
-  * Navigate to the `images` folder, then drag and drop the images directly onto the page. Repeate for each additional image.
-  * Once you've added all your images, scroll down to the bottom of the page, make sure "Commit directly to the `gh-pages` branch" is selected, then click on the green "Commit changes" button.  
+First, navigate to the `images` folder and click on the "Upload files" button. ![](http://web.mst.edu/~mstiam/edit/upload-files.png)
 
-<br />--Or--<br />
+Then, you can either
 
-2. "Upload files" button
-    * From the `images` directory, you can select the "Upload Files" button, then continue as directed above.
+1. Drag and drop the images directly into the drop area, repeating for each additional image.
+2. Click the "choose your files" option and select your files using the file explorer.  
+
 ![](https://img.labnol.org/di/upload-files.png)
+
+Once you’ve added all your images, scroll down to the bottom of the page, make sure “Commit directly to the gh-pages branch” is selected, then click on the green “Commit changes” button.
 
 Navigate back to your `images` folder to verify that your new images are there and that you can view them.
