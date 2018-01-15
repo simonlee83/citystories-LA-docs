@@ -1,6 +1,6 @@
 ---
-title: "Module 9: Adding images"
-permalink: /docs/mod9/
+title: "Module 7: Adding images"
+permalink: /docs/mod7/
 ---
 
 #### Step 1: Upload your images
