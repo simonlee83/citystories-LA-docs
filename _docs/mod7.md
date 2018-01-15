@@ -1,5 +1,5 @@
 ---
-title: "Module 7: Adding images"
+title: "Module 7: Uploading your images to GitHub"
 permalink: /docs/mod7/
 ---
 
