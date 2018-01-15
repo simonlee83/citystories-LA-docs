@@ -1,5 +1,5 @@
 ---
-title: "Module 6: Prepping your article Markdown file"
+title: "Module 6: Creating your article Markdown file"
 permalink: /docs/mod6/
 ---
 
