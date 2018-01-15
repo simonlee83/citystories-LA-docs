@@ -63,7 +63,7 @@ Once you've completed these steps and have verified that your site loads with yo
 * Next, we'll add the citation(s) for the archival objects we will be writing about. You should already have this information in your Image Worksheet from your archives and special collections visit.
 * Using MLA format, add your first citation as a numbered item (1.) just under the `{:.bibliography}` tag (no extra lines!).
 
-{need new gist}
+<script src="https://gist.github.com/kirschbombe/04a7066dd196e91cbda66e9f26888881.js"></script>
 
 * Once you have more items for your bibliography, enter each item as a numbered list item. Be sure to put your citations in alphabetical order by author or, if no author, by title.
 
