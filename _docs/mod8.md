@@ -35,11 +35,23 @@ The first section is the front matter where we will put the metadata for our art
 
 _Now, let's save our changes and check out the live page again to see the info we just added._ Remember, you may need to clear your browser's cache or try opening in a new browser to see your changes.
 
+##### The article Body
+The text of your article begins after the three dashes at the end of the front matter `---`. Just add your text, keeping in mind these Markdown formatting rules:
+
+* New paragraphs require a full line in-between the two paragraphs.
+* You can use styles such as **bold** `**bold**` and _italics_ `_italics_`.
+* You can create sub-headings in your article using hashtags (#). Four hashtags `####` create a level 4 heading, which is what we recommend for sub-headings in your article. You'll need a space between the last (#) and the first letter of the heading text: `#### My sub-heading`. 
+* Add links to your article: `[Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)` will result in [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+See the cheatsheet linked above for more Markdown tips. Don't get crazy though; we want to keep it simple and clean :)
+
 ##### Images
 
 _This step requires the information you gathered earlier in the Image Worksheet._
 
-A complete image will look like this in your Markdown file:
+Now that you've uploaded your images to the repository, you can add them to your article. Feel free to add your images below the article text, or distribute them throughout the text. 
+
+Each image has two parts: the **image link with alt-text** AND the **caption**. A complete image is formatted like this:
 
 <script src="https://gist.github.com/kirschbombe/824930bbe036dec9b40ff08943cb9500.js"></script>
 
