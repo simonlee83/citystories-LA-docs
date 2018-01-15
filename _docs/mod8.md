@@ -76,4 +76,4 @@ Repeat for each image.
 
 <script src="https://gist.github.com/kirschbombe/04a7066dd196e91cbda66e9f26888881.js"></script>
 
-_Now, let's save our changes again and check out the live page again to see the info we just added._ Remember, you may need to [clear your browser's cache](../tips/cache) or try opening in a new browser to see your changes.
+_Now, let's save our changes again and check out the live page again to see the info we just added._ Remember, you may need to [clear your browser's cache](../cache) or try opening in a new browser to see your changes.
