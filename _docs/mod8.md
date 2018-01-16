@@ -12,7 +12,7 @@ Whenever you want to add new content or edit your existing content, you'll need 
 * Click on the **pencil icon** in the top right of the file.
 * Once you are in **Edit** mode, you can switch from "No wrap" to "**Soft wrap**" in the pull-down menu in the top right corner of the file area. This will wrap the text so you can see all your content in the window.
 * Make any changes / additions to your `.md` file.
-* When you are ready, scroll down to the bottom of the page, make sure "Commit directly to the master" branch is selected, then click on the "Commit changes" button.
+* When you are ready, scroll down to bottom of the page, make sure "**Commit directly to the `master` branch**" option is selected, then click on the "**Commit changes**" button.
 
 #### Filling in the template
 We are going to fill in some of your content here in class to get you started.
