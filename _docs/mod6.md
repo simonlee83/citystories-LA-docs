@@ -17,7 +17,7 @@ permalink: /docs/mod6/
 <script src="https://gist.github.com/kirschbombe/a806fe27ca6c9edb46c06c209b79d1f1.js"></script>
 
 * While we're here, let's give the article a proper title. See where is says "enter your title here" next to the `title:` field? Let's replace this text (but leave the quotes) with the title of your article. You can always change this later if you decide, so don't worry if it's not perfect.
-* Now that you've added your frontmatter and given your article a title, scroll down to bottom of the page, make sure "**Commit directly to the `gh-pages` branch**" option is selected, then click on the "**Commit changes**" button.
+* Now that you've added your frontmatter and given your article a title, scroll down to bottom of the page, make sure "**Commit directly to the `master` branch**" option is selected, then click on the "**Commit changes**" button.
 
 #### Previewing your article stub
 * To view your article stub, visit the live project site for your repository.
