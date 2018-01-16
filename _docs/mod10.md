@@ -1,6 +1,6 @@
 ---
-title: "Module 9: Submit your work with a Pull Request"
-permalink: /docs/mod9/
+title: "Module 10: Submit your work with a Pull Request"
+permalink: /docs/mod10/
 ---
 
 To submit your work thus far, you are going to do a **Pull request**. A pull request will send a message to the main repository letting us know that your fork is ready to merge into the main project page. To submit a pull request:
