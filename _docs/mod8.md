@@ -35,6 +35,20 @@ The first section is the front matter where we will put the metadata for our art
 
 _Now, let's save our changes and check out the live page again to see the info we just added._ Remember, you may need to clear your browser's cache or try opening in a new browser to see your changes.
 
+##### The Map Marker
+To connect your article to a place on the map, you'll need to gather a few bits of information (all this information will go in the frontmatter):
+
+**Brief description for your place marker - this goes in the `desc: ` field in the frontmatter**
+* Each article has a corresponding place marker, or pop-up, on the map. This displays the **place name** and a **brief description**.
+    * Work with your instructor to determine a location in Los Angeles for your map marker - and provide a name.
+    * Write a short summary, quote, or description that reflects the importance of the place to the item(s) about which you are writing. You can change this later as your annotation develops, but go ahead and put in a short summary now. Limit to 320 characters or less!
+
+**The geographic coordinates**
+* We'll need geographic coordinates to pin the marker to the map. You can look up geographic coordinates for your location here: [http://www.gps-coordinates.net](http://www.gps-coordinates.net)
+* Add the coordinates to the frontmatter in the corresponding `lat: ` and `long: ` fields
+
+Scroll down and saver your work :)
+
 ##### The article Body
 The text of your article begins after the three dashes at the end of the front matter `---`. Just add your text, keeping in mind these Markdown formatting rules:
 
@@ -67,7 +81,7 @@ The second part contains the title and attribution statemtment:
     * The attribution statement should contain the creator and date, if known, followed by a statement like "Image courtesy of UCLA Library Special Collections." If you visited a library unit other than the UCLA Library Special Collections (for example, the Chicano Studies Research Center), use their name in place of "UCLA Library Special Collections."
 * On the next line, ad the `{:.caption}` tag - this is import to format the caption properly!
 
-Repeat for each image.
+Repeat for each image, then scroll down and save your work :)
 
 ##### Bibliography
 * Next, we'll add the citation(s) for the archival objects we will be writing about. You should already have this information in your Image Worksheet from your archives and special collections visit.
