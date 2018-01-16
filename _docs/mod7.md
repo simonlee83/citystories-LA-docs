@@ -14,6 +14,6 @@ Then, you can either
 
 ![](https://img.labnol.org/di/upload-files.png)
 
-Once you’ve added all your images, scroll down to the bottom of the page, make sure “Commit directly to the gh-pages branch” is selected, then click on the green “Commit changes” button.
+Once you’ve added all your images, scroll down to the bottom of the page, make sure “Commit directly to the master branch” is selected, then click on the green “Commit changes” button.
 
 Navigate back to your `images` folder to verify that your new images are there and that you can view them.
