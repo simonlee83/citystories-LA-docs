@@ -21,17 +21,5 @@ permalink: /docs/mod6/
 
 #### Previewing your article stub
 * To view your article stub, visit the live project site for your repository.
-* Once there, click on the "hamburger" menu to expand and hover over "Articles". The first articles listed should have the name "[Article title]". You can click on any one of these to see how the template for your article looks.
-* Take a look at the various sections and notice the placeholder text in `[ ]` -- these are text areas that you will complete as you work on your articles.
-
-#### Locating your article stub `.md` file and making your first edits
-* In the top right corner of the file, look for the pencil icon. Click this to edit the file. ![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
-
-
-{add example gists here}
-
-
-
-#### View your site with your new article title
-* Return to the live project site again. Does your site load?
-* Now click on the "hamburger" menu near the top of the page, hover over the "Articles" menu item, and make sure your article is listed there (it should now be the new article title that you entered into the `title:` field). Go ahead and click on it to make sure it displays. If you don't see the changes, you may need to [clear your browser's cache](../content/browser_cache.html) or open in a new browser.
+* Once there, click on the "hamburger" menu to expand and select "Article Index". Look for your article title in the list and click on it.
+* There's not much there now, but you'll soon fill it in :)
