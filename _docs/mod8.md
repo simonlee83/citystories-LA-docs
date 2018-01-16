@@ -7,7 +7,7 @@ Now that you have created your article Markdown file and uploaded some images, y
 
 #### Adding new content to your article
 Whenever you want to add new content or edit your existing content, you'll need to use the **Edit** mode.
-* Navigate to the `.md` file for your article in the `articles` directory.
+* Navigate to the `.md` file for your article in the `_posts` directory.
 * Click on the `.md` file to open it. - *Make sure you are opening and editing your group's article!*
 * Click on the **pencil icon** in the top right of the file.
 * Once you are in **Edit** mode, you can switch from "No wrap" to "**Soft wrap**" in the pull-down menu in the top right corner of the file area. This will wrap the text so you can see all your content in the window.
