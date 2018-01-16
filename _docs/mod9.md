@@ -7,9 +7,8 @@ To submit your work thus far, you are going to do a **Pull request**. A pull req
 
 * From your `lyricalmap` repository (`[username]/lyricalmap`), click on the "Pull requests" menu item.
 * Now click on the big green "New pull request" button.
-* Under the heading `Compare changes`, there is text with a link `compare across forks` -- click on the link.
-* First make sure your "base fork" is set to the `[instructorusername]/lyricalmap` repo with the `gh-pages` branch selected.
-* Then make sure your "head fork" is `[yourusername]/lyricalmap` repo with the `gh-pages` branch selected.
+* First make sure your "base fork" is set to the `CitStoriesUCLA/lyricalmap` repo with the `master` branch selected.
+* Then make sure your "head fork" is `[yourusername]/lyricalmap` repo with the `master` branch selected.
 * If you want to, you can scroll down and see the changes you've made since forking the main project repository.
 * When you are ready, click on the big green "Create pull request" button.
 
