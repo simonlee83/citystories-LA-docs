@@ -4,7 +4,7 @@ permalink: /docs/mod2/
 ---
 Any work not completed in class, must be completed and approved before the next class session.
 
-#### Use the [Image Worksheet](https://github.com/CityStoriesUCLA/lyricalmap/blob/gh-pages/LACityLibraryImageWorksheet.pdf) to gather the relevant information for your images
+#### Use the [Image Worksheet](https://github.com/CityStoriesUCLA/lyricalmap-old/blob/gh-pages/LACityLibraryImageWorksheet.pdf) to gather the relevant information for your images
 Ask Special Collections staff and your instructor for help.
 
 First, check the "Archival Object Checklist" section to make sure you've chosen an appropriate object/image for the project.
