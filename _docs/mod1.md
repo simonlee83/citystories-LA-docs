@@ -10,7 +10,7 @@ permalink: /docs/mod1/
 * Click on the "hamburger" menu at the top left of the text panel. Now click on the "Articles" menu item. How many articles are there Select one and scroll through the article.
 * Within one of the articles, hover over an image. What happens? Now click on an image. What happens?
 
-#### Review the [Image Worksheet](https://github.com/CityStoriesUCLA/lyricalmap/blob/gh-pages/LACityLibraryImageWorksheet.pdf) for your trip to UCLA Special Collections
+#### Review the [Image Worksheet](https://github.com/CityStoriesUCLA/lyricalmap/blob/master/LACityLibraryImageWorksheet.pdf) for your trip to UCLA Special Collections
 
 * Read through the entire worksheet
 * Make note of any questions you have about the criteria, terms, etc. and bring your questions with you to class.
