@@ -30,7 +30,7 @@ Now let's add your teammates as collaborators to your forked site so they can co
 * Go ahead and add your instructors as collaborators (using their GitHub usernames). This will come in handy if your instructors need to help you troubleshoot down the road.
 * You should now see each of your teammates listed here.
 * Your collaborators will receive an email letting them know they can contribute to your new forked repository.
-* Collaborators should log in to their GitHub accounts and see `lyricalmap` in their list of repositories once they have accepted the invite. Collaborators should get an email, but can also check their [Notifications](https://github.com/notifications) in GitHub.
+* **Collaborators should log in to their GitHub accounts** and see `lyricalmap` in their list of repositories once they have accepted the invite. Collaborators should get an email, but can also check their [Notifications](https://github.com/notifications) in GitHub.
 
 #### Add your project site link to your GitHub repository
 * For easier access, you can add the URL to your published site to the top of your repository page.
