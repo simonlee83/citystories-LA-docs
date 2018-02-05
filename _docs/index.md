@@ -4,58 +4,36 @@ permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
 
-This guide contaings the assignment modules for the "Los Angeles: The City and the Library" course project.
+This guide contains the assignment modules for the "Los Angeles: The City and the Library" course project.
 
 ### Module Guide and Sample Syllabus
 
-Here you will find a sample syllabus with a module timeline. The modules contain step-by-step instructions and are presented in the recommended order.
+Here you will find modules containing step-by-step instructions for your project which need to be completed in order according to the deadlines listed on the syllabus.
 
-To students: Do not wait until the last minute to do these modules because you will likely experience technical and editorial issues and will need time to edit, troubleshoot, and/or receive help. Check in with instructors frequently for feedback and messages!
+To students: Do not wait until the last minute to do these modules because you will likely experience technical and editorial issues and will need time to edit, troubleshoot, and/or receive help. Check in with your instructor and librarians frequently for feedback and messages! You can contact the librarians through our Slack channel. Sign up for Slack at citystoriesucla.slack.com.
 
-#### Meeting 1
-* In class:
-    * Introduction to the project, Image Worksheet and Module Guide
-* Homework: due Meeting 2
-    * [Module 1: Preparations](../mod1/)
+Important deadlines:
 
-#### Meeting 2
-* In class (visit with Archives & Special Collections):
-    * [Module 2: Images](../mod2/)
-* Homework: due Meeting 3
-    * Make sure you've completed and submitted Module 2
-    * [Module 3: Prep your images](../mod3/)
+#### Week 4
+* Complete on your own:
+* [Module 1: Preparations](../mod1/)
 
-#### Meeting 3
-* In class: --
-* Homework: due Meeting 4
-    * [Module 4: Prepare for Lab session 1](../mod4/)
+#### Week 7
+* Complete on your own:
+* [Module 2: Images](../mod2/)
+* [Module 3: Prep your images](../mod3/)
 
-#### Meeting 4
-* In class (Lab session 1):
-    * Module 5: Setting up your GitHub repository
-    * Module 6: Preparing your article stub
-    * Module 7: Begin filling in your article stub
-    * Module 8: Submit your work with a "Pull Request"
-* Homework: due Meeting 5:
-    * Module 10: Complete the teiHeader, bibliography, and image sections
-    * Module 11: The Map Marker Worksheet
+#### Week 8
+* Complete in class with Joanna Chen Cham and Simon Lee:
+* [Module 4: Prepare for Lab session 1](../mod4/)
 
-#### Meeting 5
-In class (Lab session 2):
-Module 12: Adding your Map Marker
-Module 9: Adding images
-Homework:
-Finish adding your map marker and images
-#### Meeting 6
-In class:
-Final text drafts due
-Homework:
-Module 13: Adding the article body text
-Module 14: Reviewing your live site
-Do not wait until the last minute. You will likely experience issues (both technical and editorial) and will need time to edit, troubleshoot, and/or receive help.
-Check in with instructors frequently for feedback and messages!
-#### Meeting 7
-Completed article and pull requests due. *Please submit earlier in case you need to edit or fix any errors!
-#### Meeting 8
-In class (Presentations):
-Group presentations and reveal of your final project!
+#### Week 8
+* Complete in class with Simon Lee
+* Module 5: Setting up your GitHub repository
+* Module 6: Creating your article Markdown file
+* Module 7: Uploading your images to GitHub
+
+#### Week 10
+* Complete in class with Joanna Chen Cham and Simon Lee
+* Module 8: Filling in the article data and content
+* Module 9: Submit your work with a Pull Request
