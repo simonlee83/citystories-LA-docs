@@ -16,9 +16,10 @@ Now it's time to make your own copy of the repo/site (or "fork" it) so you can a
 _We want to make sure everything is working correctly, so let's visit your live project page. To do this:_
 * Click on "Settings" in the right-hand column. (next to graphs)
 ![](https://pages.github.com/images/repo-settings@2x.png)
-* Scroll down to the box titled "GitHub Pages" and click on the link next to "Your site is published at".
-* It should look something like `http://[githubusername].github.io/lyricalmap`
-* Click on the link. You should see your version of _Los Angeles:The City and the Library_ project site. **If you see "Error 404 Site not found", don't panic!** Sometimes GitHub takes a while to build a new GitHub Pages site. We can check back later. If you have another issue, let us know!
+* Scroll down to the box titled "GitHub Pages" and under **Source** choose "**master branch**" from the pull-down menu, then click the **Save** button.
+* The page will refresh. Scroll back down to the "GitHub Pages" section. If there is a blue box that says "Your site is ready to be published at:...", refresh the page until the box is green and says "Your site is published at ..."
+* The URL there should look something like `http://[githubusername].github.io/lyricalmap`
+* Click on the link. You should see your version of _Los Angeles:The City and the Library_ project site. **If you see "Error 404 Site not found", don't panic!** Sometimes GitHub takes a while to build a new GitHub Pages site. Just refresh the page until you see the site. If you have another issue, let us know!
 
 #### Add your teammates as collaborators
 Now let's add your teammates as collaborators to your forked site so they can contribute!
@@ -29,7 +30,7 @@ Now let's add your teammates as collaborators to your forked site so they can co
 * Go ahead and add your instructors as collaborators (using their GitHub usernames). This will come in handy if your instructors need to help you troubleshoot down the road.
 * You should now see each of your teammates listed here.
 * Your collaborators will receive an email letting them know they can contribute to your new forked repository.
-* Collaborators should log in to their GitHub accounts and see `lyricalmap` in their list of repositories once they have accepted the invite. Collaborators should get an email, but can also check their [Notifications](https://github.com/notifications) in GitHub.
+* **Collaborators should log in to their GitHub accounts** and see `lyricalmap` in their list of repositories once they have accepted the invite. Collaborators should get an email, but can also check their [Notifications](https://github.com/notifications) in GitHub.
 
 #### Add your project site link to your GitHub repository
 * For easier access, you can add the URL to your published site to the top of your repository page.
